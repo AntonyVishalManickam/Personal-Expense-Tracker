@@ -1,2 +1,4 @@
 expenses.db
+.gitignore
+README.md
 __pycache__/
